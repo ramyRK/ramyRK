@@ -1,6 +1,6 @@
 - <h1>👋 Hi, I’m @ramyRK </h1>
-- 👀 I’m interested in web and mobile development 
-- 🌱 I’m currently learning flutter
+- 👀 I’m a software engineering student
+- 🌱 I’m currently learning django
 - 📫 How to reach me kheliliramy0@gmail.com
 
 <!---
