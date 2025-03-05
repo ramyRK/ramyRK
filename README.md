@@ -13,7 +13,7 @@ I'm a Software Engineering student currently diving into Django and backend deve
 📫 How to Reach Me
 
     Email: kheliliramy@gmail.com
-    LinkedIn: [Ramy Khelili](https://www.linkedin.com/in/ramy-khelili-05582b299/)
+    LinkedIn: Ramy Khelili
 
 ⚡ Fun Fact
 
