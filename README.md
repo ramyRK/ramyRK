@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Khelili Ramy! 👋</h1>
 
 I'm a Software Engineering student currently diving into Django and backend development. I'm passionate about learning how to build robust web applications, RESTful APIs, and scalable backend systems. My journey in software engineering is all about exploring new technologies and turning ideas into real-world projects.
-🔭 Projects
+🔭 
 
 🌱 Currently Learning
 
