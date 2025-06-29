@@ -9,6 +9,7 @@ I'm a Software Engineering student currently diving into Django and backend deve
     Backend development best practices
     Database management & caching (PostgreSQL, Redis)
     Containerization & cloud deployment (Docker, Kubernetes)
+    microservices
 
 📫 How to Reach Me
 
